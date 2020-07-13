@@ -1,4 +1,4 @@
-# Hackerutmaning - TechTensta Hacker 2020
+# Hackerutmaning
 
 Kan du lösa [exempel utmaningen](https://rickardlofberg.github.io/hackerutmaning/index.html)?
 
