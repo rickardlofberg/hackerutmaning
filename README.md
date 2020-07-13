@@ -1,6 +1,8 @@
 # Hackerutmaning - TechTensta Hacker 2020
 
-Kan du lösa [utmaningen](https://rickardlofberg.github.io/hackerutmaning/index.html)?
+Kan du lösa [exempel utmaningen](https://rickardlofberg.github.io/hackerutmaning/index.html)?
+
+Hur kan jag göra min egen utmaning? [Läs mer här](https://github.com/rickardlofberg/hackerutmaning/wiki)
 
 ## Beskrivning
 
@@ -37,7 +39,12 @@ Om du forkar koden och kommer på nya utmaningar, skapa gärna en pull-request m
 
 # Bidra
 
-Har du idéer på förbättringar eller fler utmaningar? Kontakta mig gärna eller skapa en pull-request. 
+Sätt att bidra på:
+- Kom på nya utmaningar! Har du en bra idé skapa en PR.
+- Förbättra utmaningarna! Kan beskrivningar göras bättre? Finns det misstag i texterna? Kom med förslag och rätta till dem.
+- Förbättra dokumentationen! Är [wiki](https://github.com/rickardlofberg/hackerutmaning/wiki) texten obegriplig? Hjälp till att göra den bättre.
+- Grym på att skapa bilder och andra illustrationer som kan göra hemsidan bättre? Skapa en PR med förslag på ändringar.
+
 
 ## Contributors
 
